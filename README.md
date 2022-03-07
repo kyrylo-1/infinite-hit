@@ -1,8 +1,18 @@
 # Infinite Hit
 
-This code is strictly for educational purposes.
-The script allows restarting the attack after the duration is over. Thus attack has no downtime.
+Use of code is strictly for educational purposes.
+
+Script allows restarting the attack after the duration is over. Thus attack has no downtime.
+
 **Create and setup .env file**
 
     API_KEY=YOUR_KEY
     LOCALE=all,asia,europe,cn,us
+
+**How to run**
+
+`python infiniteHit.py https://yourwebsite.com 443`
+
+or
+
+`python infiniteHit.py 127.0. 0.1 80`
