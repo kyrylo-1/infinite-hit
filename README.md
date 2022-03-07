@@ -2,7 +2,7 @@
 
 Use of code is strictly for educational purposes.
 
-Script allows restarting the attack after the duration is over. Thus attack has no downtime.
+Script allows restarting the attack after the duration is over. Thus attack has no downtime. `infiniteHit.py` uses API from [stresser.ai](https://stresser.ai/apihelp)
 
 **Create and setup .env file**
 
